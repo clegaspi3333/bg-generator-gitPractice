@@ -1,0 +1,11 @@
+{
+  "name": "bg-generator-gitpractice",
+  "version": "1.0.0",
+  "description": "practicing how to work with git by using ZTM example",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
